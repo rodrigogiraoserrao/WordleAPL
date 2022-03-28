@@ -1,0 +1,5 @@
+Score ← {
+    ⍝ Score a wordle guess ⍵ with respect to the secret word ⍺.
+    p ← ⍒⍺=⍵
+    ⍵(=+(⍋p)I PM⍥(p I⊢))⍺
+}
