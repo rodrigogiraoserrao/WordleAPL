@@ -1,4 +1,1 @@
-PM ← {
-    ⍝ Progressive Membership from APL Cart https://aplcart.info/?q=progressive%20membership
-    ((≢⍺)⍴⍋⍋⍺⍳⍺⍪⍵)∊(≢⍵)⍴⍋⍋⍺⍳⍵⍪⍺
-}
+PM ← {⍺∊⍥T⍵}
