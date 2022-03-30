@@ -1,4 +1,1 @@
-Load ← {
-    ⍺ ← 'WORD.LST'
-    ↑w⌿⍨⍵=≢¨w←⊃⎕NGET ⍺ 1
-}
+ Load ← {⍺ ← 'WORD.LST' ⋄ ↑ls⌿⍨⍵=≢¨ls ← ⊃⎕NGET ⍺ 1}

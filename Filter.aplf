@@ -1,1 +1,1 @@
-Filter ← {⍺ IL ⍺ OP ⍺ IP ⍺ CL ⍵}
+Filter ← {⍺ WI ⍺ IL ⍺ CL ⍵}
