@@ -1,7 +1,5 @@
 # WordleAPL
 
-![](https://mathspp.com/user/pages/02.blog/solving-wordle-with-apl/thumbnail.png)
+Simple APL code base that solves the game Wordle.
 
-Solving Wordle in APL is a fairly straightforward task because the array-oriented paradigm under which APL operates makes it easy to reason about the criteria you need to implement.
-
-You can read the accompanying blog article [here](https://mathspp.com/blog/solving-wordle-with-apl).
+You can read the accompanying blog article [here](https://mathspp.com/blog/solving-wordle-with-apl) and watch the accompanying YouTube series [here](https://www.youtube.com/playlist?list=PLgTqamKi1MS1x-XYJG8z-czwkDh0m8nN6).
